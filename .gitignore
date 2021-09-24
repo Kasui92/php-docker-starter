@@ -1,0 +1,17 @@
+# IDE
+.idea
+.vscode
+
+# CONF
+# .docker/web/conf.d/php.conf
+
+# LOGS
+logs/*
+!logs/.gitkeep
+
+# SERVICES
+services/*
+!services/.gitkeep
+
+#ENV
+.env
